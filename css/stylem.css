@@ -1,0 +1,87 @@
+
+
+
+
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: 'Frederick the Great',cursive;
+	letter-spacing:2px;
+	font-size:'10pt';
+}
+
+
+
+img{
+	width: 98%;
+}
+
+
+body {
+	background-image: url(../img/contact/bg1.png);
+	
+	
+	background-image: linear-gradient(to right, url(../img/contact/bg1.png), url(../img/contact/bg1.png)); /* Standard syntax (must be last) */
+}
+
+
+
+
+
+#about{
+		
+background-image: url(../img/contact/bg1.png);
+		
+background-size: contain;
+		
+-moz-background-size: contain;
+
+	}
+
+
+
+/*-- About --*/
+
+.about {
+	back
+	padding-bottom: 100px;
+}
+
+
+
+.about-grid1, .about-grid2, .about-grid3 {
+	width: 60%;
+	margin: 0 100px 0 auto;
+	background-color: #EEE;
+}
+
+.about-grid2 {
+	margin: 50px 100px;
+}
+
+.about-grid {
+	padding: 0;
+}
+
+.about h3 {
+	font-size: 30px;
+	margin: 25px 0;
+	color: #0AC1D5;
+}
+
+.about p {
+	padding: 0 30px;
+	line-height: 27px;
+	color: #777;
+	text-align: center;
+}
+
+/*-- //About --*/
+
+
+

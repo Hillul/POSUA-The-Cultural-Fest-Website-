@@ -1,0 +1,9 @@
+﻿
+#Events .event-item{margin:0 0 15px;right:0}
+#Events .event-item .event-link{display:block;position:relative;max-width:400px;border-radius:10px;margin:0 auto;border:3px solid #2196F3}
+#Events .event-item .event-link .caption{border-radius:10px;position:absolute;width:100%;height:100%;background:#e5e5e5;opacity:0;transition:all ease .5s;-webkit-transition:all ease .5s;-moz-transition:all ease .5s}
+#Events .event-item .event-link .caption:hover{opacity:1}
+#Events .event-item .event-link .caption .caption-content{position:absolute;width:100%;color:#2196F3;height:20px;font-size:32px;text-align:center;top:45%;margin-top:-12px}.btn-outline,.btn-social{border:2px solid #fff;font-size:20px}
+#Events *{z-index:2}@media (min-width:767px){#Events .event-item{margin:0 0 30px}}
+#Events{background-image:url(../Images/Background.png);background-color:#CFD8DC;background-repeat:no-repeat;box-shadow:inset 0 0 0px;background-position:center;background-attachment:fixed;background-size:cover}footer{color:#fff}footer h3{margin-bottom:30px}footer .footer-above{padding-top:50px;background-color:#2C3E50}footer .footer-col{margin-bottom:50px}footer .footer-below{padding:25px 0;background-color:#233140;box-shadow:0 0 0px #000}
+
